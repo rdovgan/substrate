@@ -7182,6 +7182,7 @@ dependencies = [
  "serde",
  "serde_json",
  "sp-runtime",
+ "substrate-prometheus-endpoint",
  "ws",
 ]
 
