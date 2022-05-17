@@ -54,7 +54,7 @@ sp-runtime = { version = "6.0.0", path = "../../../primitives/runtime" }
 sp-version = { version = "5.0.0", path = "../../../primitives/version" }
 
 [dev-dependencies]
-rand_chacha = "0.2.2"
+rand_chacha = "0.3.0"
 tempfile = "3.1.0"
 sc-block-builder = { version = "0.10.0-dev", path = "../../block-builder" }
 sc-network = { version = "0.10.0-dev", path = "../../network" }
