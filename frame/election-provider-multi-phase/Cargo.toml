@@ -40,7 +40,7 @@ rand = { version = "0.7.3", default-features = false, optional = true, features 
 	"alloc",
 	"small_rng",
 ] }
-strum = { optional = true, default-features = false, version = "0.23.0", features = [
+strum = { optional = true, default-features = false, version = "0.24.1", features = [
 	"derive",
 ] }
 
